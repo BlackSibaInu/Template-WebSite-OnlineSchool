@@ -14,25 +14,24 @@
 
 
 ## Структура проекта
-GitHub_BSI/ 
-│ 
-├── index.html 
-├── css/ 
-│ └── main.css 
-│ └── accordion.css
-│ └── sidebar.css
-├── js/ 
-│ └── main.js 
-│ └──sidebar.js
-│ └── accordion.js
+ GitHub_BSI/ 
+ │ 
+ ├── index.html 
+ ├── css/ 
+ │ └── main.css 
+ │ └── accordion.css
+ │ └── sidebar.css
+ ├── js/ 
+ │ └── main.js 
+ │ └──sidebar.js
+ │ └── accordion.js
 
 
 
 ## Использование
 
-1. Клонируйте репозиторий:
-git clone https://github.com/blacksibainu/Template-WebSite-OnlineSchool.git
-2. Откройте файлы в вашем любимом текстовом редакторе.
+1. Скачайте архив.
+2. Разархивируйте в удобном для вас месте.
 3. Модифицируйте содержимое в соответствии с вашими потребностями.
 4. Загрузите файлы на ваш веб-хостинг.
 
