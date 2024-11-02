@@ -14,6 +14,7 @@
 
 
 ## Структура проекта
+```
  GitHub_BSI/ 
  │ 
  ├── index.html 
@@ -25,7 +26,7 @@
  │ └── main.js 
  │ └──sidebar.js
  │ └── accordion.js
-
+```
 
 
 ## Использование
@@ -52,4 +53,6 @@
 ## Контакты
 
 Если у вас возникли вопросы, вы можете связаться со мной через [GitHub](https://github.com/blacksibainu).
+
+#webразработка #html #css #onlineschool #шаблон 
 
